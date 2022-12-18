@@ -7,6 +7,9 @@
   list-style: none;
   font-family: "Montserrat", sans-serif;
 }
+p{
+  color: black;
+}
 
 body {
   background: grey;

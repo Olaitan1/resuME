@@ -10,6 +10,13 @@
 p{
   color: black;
 }
+.info ul li {
+list-style-type:disc;
+
+}
+
+
+  
 
 body {
   background: grey;
